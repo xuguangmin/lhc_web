@@ -4280,15 +4280,15 @@
     </message>
     <message>
       <source>Seen</source>
-      <translation type="unfinished"/>
+      <translation>查看</translation>
     </message>
     <message>
       <source>Unseen</source>
-      <translation type="unfinished"/>
+      <translation>未看</translation>
     </message>
     <message>
       <source>User has seen the message from the operator.</source>
-      <translation>用戶從運營商已經看到了消息。</translation>
+      <translation>访客已看到客服发送的消息</translation>
     </message>
     <message>
       <source>User does not have any messages from the operator</source>
@@ -4308,7 +4308,7 @@
     </message>
     <message>
       <source>has sent a message to the user</source>
-      <translation>发送一个消息给用户</translation>
+      <translation>向访客发送了一个消息</translation>
     </message>
     <message>
       <source>first visit</source>
@@ -4336,7 +4336,7 @@
     </message>
     <message>
       <source>Preview chat</source>
-      <translation type="unfinished"/>
+      <translation>历史会话</translation>
     </message>
     <message>
       <source>Visits</source>
@@ -4734,7 +4734,7 @@
     </message>
     <message>
       <source>New file</source>
-      <translation>新的文件</translation>
+      <translation>新文件</translation>
     </message>
   </context>
   <context>
@@ -5033,7 +5033,7 @@
     </message>
     <message>
       <source>New chat request</source>
-      <translation>新的会话请求</translation>
+      <translation>新会话请求</translation>
     </message>
     <message>
       <source>New chat has been transferred to you directly!</source>
@@ -7608,7 +7608,7 @@
     <name>survey/fill</name>
     <message>
       <source>Preview chat</source>
-      <translation type="unfinished"/>
+      <translation>历史会话</translation>
     </message>
     <message>
       <source>star</source>
@@ -8675,7 +8675,7 @@
     </message>
     <message>
       <source>Minutes</source>
-      <translation type="unfinished"/>
+      <translation>分</translation>
     </message>
     <message>
       <source>Vote status</source>
@@ -8683,7 +8683,7 @@
     </message>
     <message>
       <source>Mail send</source>
-      <translation>邮件已发送</translation>
+      <translation>发送邮件发送</translation>
     </message>
     <message>
       <source>Page</source>
@@ -8731,7 +8731,7 @@
     </message>
     <message>
       <source>Time online (sum of time spend online)</source>
-      <translation type="unfinished"/>
+      <translation>在线时间</translation>
     </message>
     <message>
       <source>AVG number of chat per hour</source>
@@ -8787,11 +8787,11 @@
     <name>user/validator</name>
     <message>
       <source>Please enter a username</source>
-      <translation>请键入一个用户名</translation>
+      <translation>请输入用户名</translation>
     </message>
     <message>
       <source>User exists</source>
-      <translation type="unfinished"/>
+      <translation>用户已存在</translation>
     </message>
     <message>
       <source>Passwords mismatch</source>
